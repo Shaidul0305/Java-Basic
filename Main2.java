@@ -5,12 +5,3 @@ public class Main2 {
     System.out.println("It is awesome!");
   }
 }
-
-
-
-
-
-
-
-
-
